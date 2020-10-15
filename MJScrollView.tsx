@@ -221,4 +221,4 @@ const styles = StyleSheet.create({
     },
 });
 
-module.exports = Platform.OS === 'ios' ? MJScrollView : ScrollView
+export default  Platform.OS === 'ios' ? MJScrollView : ScrollView

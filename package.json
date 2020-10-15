@@ -2,7 +2,7 @@
   "name": "react-native-mjrefresh",
   "version": "0.7.0",
   "description": "",
-  "main": "MJRefresh.js",
+  "main": "MJRefresh.tsx",
   "scripts": {
     "test": "npm test"
   },
